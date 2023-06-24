@@ -18,9 +18,9 @@
   - Programming [Python, Node{js}]
   - Database management [MongoDB]
   - Version control [Git, Github]
-- Basic web development using html and native js [will not consider as 'front-end' however.]  
+- Basic web development using html and native js [will not consider myself as a 'front-end' developer however.]  
 
-## Languages I have knowledge in:
+## Languages I have knowledge in (basic & experienced):
 <p align="left">
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
