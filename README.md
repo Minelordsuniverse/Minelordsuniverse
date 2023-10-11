@@ -6,7 +6,7 @@
 ---  
 
 ## Basic introduction/About me:  
-- Age: 16 years
+- Age: 17 years
 - Gender: Male
 - Where I'm from: Singapore
 - Education level: Year 12 High-school.
