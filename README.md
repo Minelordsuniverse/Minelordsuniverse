@@ -16,9 +16,8 @@
 ## What I am/do:
 - 
   - Programming [Python, Node{js}]
-  - Database management [MongoDB]
   - Version control [Git, Github]
-- Back end of webdev [Javascript]
+  - Back end of webdev [Javascript]
 
 ## Languages I have knowledge in (basic & experienced):
 <p align="left">
