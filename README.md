@@ -6,10 +6,8 @@
 ---  
 
 ## Basic introduction/About me:  
-- Age: 17 years
+- Age: 18 years
 - Gender: Male
-- Where I'm from: Singapore
-- Education level: Year 12 High-school.
 - Experience as a developer: Rookie-ish. Learning more as I code more.
 - Extra: *Used* to be a <a href="https://minelordsuniverse.itch.io/">game developer</a>. Now I primarily focus on making discord bots in node(js) and customized software development (Mostly extra menus/addons for pre-existing games, for example: <a href="https://github.com/Minelordsuniverse/NFS-Heat_Cinematic_Camera_Thingy">A cinematic camera system for NFS Heat that I've made.</a> As for other stuff I do, it mostly involves <a href="https://soundcloud.com/user-426358375-448426703">SFX/music production using FL Studio 20</a>, <a href="https://steamcommunity.com/id/minelordsuniverse/">gaming</a>, <a href="https://myanimelist.net/profile/DefinitelyNotML">binging animanga</a>, photography[you can find it on my instagram, however it is a private account.], and generally just goofing around. I also love cats and cars alike! That's it, I promise-  
 
